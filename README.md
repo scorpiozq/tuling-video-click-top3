@@ -1,10 +1,10 @@
 # tuling-video-click-top3
-图灵联邦视频点击预测大赛线上第三
+图灵视频点击预测大赛线上第三
 
 # 2020-TURING-TOPIA-Video-Click-SINGLE-LightGBM-top3
 ===============================================================================================================     
-**图灵联邦视频点击预测大赛线上第三（LightGBM单模）**
-## 主办方： 图灵联邦
+**图灵视频点击预测大赛线上第三（LightGBM单模）**
+## 主办方： 图灵
 ## 赛道：2020-视频点击预测大赛
 
 **赛道链接**：https://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch       
